@@ -13,7 +13,7 @@ A **socket-based communication system** implemented in **Java** with a **web UI*
 
 ## 📷 HLD (High-Level Diagram)
 
-![System Diagram](./assets/Diagram.jpg)
+![System Diagram](./assets/HighLevelDiagram.jpg)
 
 ## Components:
 
