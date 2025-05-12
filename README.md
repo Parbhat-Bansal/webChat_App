@@ -82,6 +82,18 @@ The server is responsible for handling incoming socket connections and routing m
 
 3. Copy the path of index.html and paste in chrome.  
 
+
+## 🎥 Demo Video
+
+<video width="1000" controls>
+  <source src="./assets/WebChat_Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
+
+
 ## 📄 Usage
 
 After setting up and running the server and both clients:
